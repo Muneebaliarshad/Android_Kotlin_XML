@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Kotlin_XML</string>
+    <string name="action_settings">Setting</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="share_on_social">Share On Social</string>
+    <string name="logo_Image">Logo Image</string>
+    <string name="title">Title</string>
+</resources>
